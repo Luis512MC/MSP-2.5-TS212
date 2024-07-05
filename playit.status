@@ -1,424 +1,1138 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720212001297 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212004421 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212007545 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212010676 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212013803 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212017017 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212020177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212023366 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212026493 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212029604 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212032698 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212035840 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212038950 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212042107 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212045228 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212048340 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212051459 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212054576 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212057665 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212060789 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212063977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212067127 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212070240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212073335 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212076440 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212079584 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212082696 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212085885 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212089072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212092182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212095304 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212098420 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212101557 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212104917 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212108044 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212111153 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-come-twin.gl.at.ply.gg:2548 => 127.0.0.1:19132 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212114277 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720213487041 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212117370 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213490135 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212120515 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213493257 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212123635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213496380 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212126742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213499581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212129866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213502855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212133001 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213506039 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212136110 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213509151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212139239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213512300 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212142378 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213515475 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212145492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213518655 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212148586 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213521878 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212151728 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213525026 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212154858 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213528147 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212157972 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213531242 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212161067 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213534388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212164196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213537506 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212167326 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213540598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212170487 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213543721 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212173591 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213546871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212176702 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213549966 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212179820 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213553056 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212182927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213556189 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212186063 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213559295 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212189160 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213562438 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212192261 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213565580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212195383 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213568821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212198598 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213571944 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212201696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213575054 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212204822 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213578145 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212207944 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213581266 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212211063 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213584403 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212214178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213587507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212217324 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213590654 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.13): 1720212220451 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720213593829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213596968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213600099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213603222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213606349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213609471 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213612603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213615709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213618893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213622049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213625190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213628302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213631464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213634597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213637709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213640866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213643998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213647098 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213650200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213653314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213656425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213659552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213662680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213665793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213668908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213672045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213675183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213678300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213681409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213684530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213687644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213690760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213693861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213696985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213700105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213703215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213706329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213709461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213712558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213715668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213718786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213721890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213725018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213728155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213731266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213734378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213737502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213740645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213743758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213746849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213749943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213753108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213756235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213759332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213762438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213765548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213768662 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213771750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213774899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213778011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213781146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213784270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213787438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213790556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213793668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213796794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213799965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213803235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213806383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213809524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213812648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213815777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213818909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213822042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213825197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213828351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213831443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213834558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213837711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213840821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213843943 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213847067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213850208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213853343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213856473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213859610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213862701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213865807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213868934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213872075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213875222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213878314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213881415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213884531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213887653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213890789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213893884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213896984 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213900078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213903181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213906296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213909413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213912546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213915664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213918804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213921937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213925065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213928261 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213931451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213934571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213937734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213940872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213944037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213947134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213950233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213953336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213956437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213959628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213962801 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213965932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213969058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213972171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213975278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213978422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213981623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213984792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213987903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213991004 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213994164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720213997284 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214000508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214003613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214006736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214009862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214013027 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214016119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214019238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214022370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214025497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214028702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214031805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214034899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214037997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214041092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214044186 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214047283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214050432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214053592 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214056720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214059860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214062974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214066092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214069193 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214072393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214075602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+unknown-du.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+come-twin.gl.at.ply.gg:2548 => 127.0.0.1:2548 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.13): 1720214078769 tunnel running, 2 tunnels registered
 
 
 TUNNELS

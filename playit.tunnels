@@ -82,7 +82,7 @@
           "agent_id": "84a77678-254a-4a91-ad51-b53e34431b25",
           "agent_name": "Server de los papus1",
           "local_ip": "127.0.0.1",
-          "local_port": 19132
+          "local_port": 2548
         },
         "type": "agent"
       },
